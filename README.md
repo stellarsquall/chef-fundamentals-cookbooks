@@ -7,6 +7,7 @@ This repo should be cloned to your local machine, unzipped, and the cookbooks co
 
 ```
 ~/chef-repo
+    ├── .chef
     ├── README.md
     ├── cookbooks
     │   ├── chefignore
